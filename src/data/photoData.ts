@@ -50314,7 +50314,7 @@ export const photoData = [
     first_name: "R.J.",
     last_name: "Temoin",
     year: 1939,
-    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/R.J._Temoin_1939.png"
+    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/R.J.Temoin_1939.jpg"
   },
   {
     id: 7187,
