@@ -50321,28 +50321,28 @@ export const photoData = [
     first_name: "T.A.G.",
     last_name: "Beeching",
     year: 1939,
-    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/T.A.G._Beeching_1939.png"
+    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/T.A.G._Beeching_1939.jpg"
   },
   {
     id: 7188,
     first_name: "W.L.",
     last_name: "Garvie",
     year: 1939,
-    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/W.L._Garvie_1939.png"
+    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/W.L._Garvie_1939.jpg"
   },
   {
     id: 7189,
     first_name: "W.L.",
     last_name: "Hetherington",
     year: 1939,
-    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/W.L._Hetherington_1939.png"
+    path: "https://people.ece.ubc.ca/~eng-services/assets/1939/W.L._Hetherington_1939.jpg"
   },
   {
     id: 7190,
     first_name: "P.W.",
     last_name: "Nasmyth",
     year: 1941,
-    path: "https://people.ece.ubc.ca/~eng-services/assets/1941/P.W._Nasmyth_1941.png"
+    path: "https://people.ece.ubc.ca/~eng-services/assets/1941/P.W._Nasmyth_1941.jpg"
   },
   {
     id: 7191,
